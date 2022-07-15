@@ -1,21 +1,18 @@
 # AbstractUr
 
-**TODO: Add description**
+AbstractUr - implementation of the basic rules of the
+[Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur).
+Copyright © 2022-present Arjun Satarkar
 
-## Installation
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3,
+a copy of which is included in the file `LICENSE.txt`.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `abstract_ur` to your list of dependencies in `mix.exs`:
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License version 3 for more details.
 
-```elixir
-def deps do
-  [
-    {:abstract_ur, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/abstract_ur>.
-
+You should have received a copy of the GNU Affero General Public License
+version 3 along with this program.  If not, see
+<https://www.gnu.org/licenses/>.
